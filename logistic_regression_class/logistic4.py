@@ -18,6 +18,10 @@ N = 100
 D = 2
 
 
+
+
+
+
 X = np.random.randn(N,D)
 
 # center the first 50 points at (-2,-2)
